@@ -1,5 +1,5 @@
 # CMPE131
-Software Engineering I (HTML)
+Software Engineering I (HTML/CSS/JS/PHP/mySQL)
 
 This Project is a web server client that serves as an "Online-Only" Bank, utiling HTML, CSS, PHP, and mySQL.
 This web server allows registration and login through mySQL database tables, and functions within the bank allow
