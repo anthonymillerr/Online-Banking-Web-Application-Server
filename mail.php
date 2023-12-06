@@ -17,7 +17,7 @@ function send_mail($recipient,$subject,$message)
   $mail->Port       = 587;
   $mail->Host       = "smtp.gmail.com";
   // This is only if yo use yahoo -> $mail->Host       = "smtp.mail.yahoo.com";
-  $mail->Username   = "brandon.riveravenegas@sjsu.edu";
+  $mail->Username   = "anthony.j.miller@sjsu.edu";
   $mail->Password   = "shxf tbtc xjpc odtk";
 
   $mail->IsHTML(true);
